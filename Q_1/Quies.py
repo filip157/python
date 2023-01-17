@@ -1,0 +1,8 @@
+a = eval(input())
+c = eval(input())
+d = eval(input())
+b = eval(input())
+print('|' + '% 3.2f' % a + '  ' + '%-3.2f' % b + ' |')
+print('|' + '% 3.2f' % c + '  ' + '%-3.2f' % d + '|')
+print('|' + '%-3.2f' % a + '  ' + '% 3.2f' % b + ' |')
+print('|' + '%-3.2f' % c + '  ' + '% 3.2f' % d + '|')
