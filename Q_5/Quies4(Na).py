@@ -1,7 +1,5 @@
 import math
 
-time = int(0)
-
 def compute(x):
     for time in x:
         if (time == 0):
