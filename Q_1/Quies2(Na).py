@@ -1,5 +1,0 @@
-x = eval(input())
-y = eval(input())
-z = eval(input())
-Speed = ( (z*1.6) / ((x/60) + (y/360)) )
-print('Speed = %f' %  Speed)
